@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @toninhotornado083
-- ![https://www.google.com/url?sa=i&url=https%3A%2F%2Fspinningwebsandtales.tumblr.com%2Fpost%2F710373680723705856%2Fimagine-getting-close-to-ban-after-he-protects-you&psig=AOvVaw24SXcVR-ntDwgk7W1ZVCI6&ust=1748356060836000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjLyIOswY0DFQAAAAAdAAAAABAY]
+- ![![image](https://github.com/user-attachments/assets/5d00cd8e-9b67-4378-b6ef-09917df22e1f)]
+
 - 👀 I’m interested in:Em aprender a programar um pouco
 - 🌱 I’m currently learning : A programar jogos
 - 💞️ I’m looking to collaborate on : ..
